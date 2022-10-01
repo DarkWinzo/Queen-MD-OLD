@@ -47,12 +47,7 @@
 <!---->
 
 
-
-
-  ### ⚠️ Deploy With New Session <br>
-Click [FORK](https://github.com/DarkWinzo/Queen-MD/fork) <br>
-  
-Now copy this url and change GITHUBID with your github username and click GO <br>
+Deploy Queen Bot heroku  <br>
 
   ```
   https://heroku.com/deploy?template=https://github.com/GITHUB ID/Queen-MD 
