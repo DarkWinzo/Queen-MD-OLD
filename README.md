@@ -4,12 +4,7 @@
 <p align="left">
   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/current%20Status-Updates%20Are%20coming%20soon!-orange.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
-<br>
-<p align="left">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Can%20use?-Yes%20you%20Can%20Deploy%20Queen%20MD%20Bot-green.svg?style=for-the-badge&logo=xcode" /></a>
-</p>
 
-<br><br>
 <div align="center">
   
 # `❗❗FORK THIS BEFORE PROCEEDING`
