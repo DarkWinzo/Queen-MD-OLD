@@ -6,7 +6,7 @@
 </p>
 <br>
 <p align="left">
-  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/next%20Condition-Testing%20only-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/Can%20use?-Yes%20you%20Can%20Deploy%20Queen%MD-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
 
 <br><br>
