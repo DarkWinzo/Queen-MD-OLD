@@ -81,8 +81,6 @@ yarn
 npm i pm2
 pm2 start index.js && pm2 save && pm2 logs
 ```
-  
-  <br><br><br>
 <h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="Wa.me/94775200935" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="DarkWinzo" height="30" width="40" /></a>
