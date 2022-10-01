@@ -17,7 +17,7 @@
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://alien-alfa-md.up.railway.app/"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://queenmd-qr.darkwinzo.repl.co/"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Upload Session to Github`
 
@@ -61,7 +61,7 @@ Click [FORK](https://github.com/DarkWinzo/Queen-MD/fork) <br>
 Now copy this url and change GITHUBID with your github username and click GO <br>
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/Queen-MD 
+  https://heroku.com/deploy?template=https://github.com/GITHUB ID/Queen-MD 
   ```
   
   <br> <br>
@@ -94,45 +94,26 @@ pm2 start index.js && pm2 save && pm2 logs
 ```
   
   <br><br><br><br><br>
-
   
-# `⚠️ BUILDPACKS`
-
-
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
-heroku/nodejs
-
-```
-<br><br><br>
-
-  
-## ⚠️ Modified By,
+## ⚠️ Coded By,
   <div align="center">
   
-| [![Alien-Alfa](https://github.com/DarkWinzo.png?size=200)](https://github.com/DarkWinzo) |
+| [![DarkWinzo](https://github.com/DarkWinzo.png?size=200)](https://github.com/DarkWinzo) |
 |----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) |
+| [𒆜DarkWinzo𒆜](https://github.com/AI-VIKI) |
 |  𒆜Bug Fixes, Modules, updates𒆜 |
   
   </div>
 
 ## ❗ Warning
-There are unsolved bugs in this bot🎈
+You Can't Modify This Base
 
-## ❗ IF YOU FIND A BUG MAKE IS A FETURE 🐥
 
 ## ⚠️ Thanks To 😻
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Alien Alfa`](https://github.com/DarkWinzo)
-* [`Dika Ardnt`](https://github.com/DikaArdnt)
-
-`And All People Who Worked In The Base Of This Project`
-
-
-
+* [`DarkWinzo`](https://github.com/DarkWinzo)
+* [`Alien Alfa`](https://github.com/Alien-Alfa)
+  
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 
