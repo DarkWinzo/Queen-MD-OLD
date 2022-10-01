@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-<strong>ＡＬＩＥＮ ＡＬＦＡ－ＭＤ－ＴＥＭＰＬＡＴＥ</strong>
+<strong>Ｑｕｅｅｎ ＭＤ Ｗｈａｔｓａｐｐ Ｂｏｔ</strong>
 </p>
 
 <p align="center">
