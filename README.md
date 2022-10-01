@@ -13,11 +13,11 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/DarkWinzo/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://github.com/DarkWinzo/Queen-MD/blob/main/Media/Image/Deploy.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://alien-alfa-md.up.railway.app/"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://alien-alfa-md.up.railway.app/"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Upload Session to Github`
 
