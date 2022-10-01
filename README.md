@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&width=550&height=117&lines=I'm+Queen;Multi+Device+Whatsapp+Bot;Corded+By+DarkWinzo)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=F710B1&center=true&width=550&height=117&lines=I'm+Queen;Multi+Device+Whatsapp+Bot;Corded+By+DarkWinzo" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/DarkWinzo"><img title="Support" src="https://img.shields.io/badge/maintained-yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
