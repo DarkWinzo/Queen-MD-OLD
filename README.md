@@ -21,8 +21,8 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://github.com/DarkWinzo/Queen-MD/blob/main/Media/Image/Deploy.png" width="200"></a>
-<br>
+  <a href="https://github.com/DarkWinzo/Queen-MD/fork"><img title="ＤａｒｋＷｉｎｚｏ" src="https://github.com/DarkWinzo/Queen-MD/blob/main/Media/Image/Deploy.png?raw=true" width="200"></a>
+  
 # `Scan QR Code For Session`
  
 <a href="https://queenmd-qr.darkwinzo.repl.co/"><img title="ＤａｒｋＷｉｎｚｏ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
